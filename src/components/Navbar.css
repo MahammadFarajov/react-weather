@@ -1,0 +1,36 @@
+.header .nav {
+    padding: 40px;
+    display: flex;
+    align-items: center;
+  }
+  .header .nav form {
+    width: 100%;
+    display: flex;
+  }
+  .header .nav form .input {
+    border-radius: 10px 0 0 10px;
+    padding: 15px 20px;
+    width: 100%;
+    border: 1px solid #4793FF;
+    color: #4793FF;
+    transition: all 0.4s ease-in-out;
+  }
+  .header .nav form .input:hover, .header .nav form .input:focus {
+    transition: all 0.4s ease-in-out;
+    background-color: #4793FF;
+    color: #ffffff;
+  }
+  .header .nav form .btn {
+    transition: all 0.4s ease-in-out;
+    border-radius: 0 10px 10px 0;
+    padding: 15px 20px;
+    border: 1px solid #4793FF;
+    color: #4793FF;
+    background-color: #ffffff;
+  }
+  .header .nav form .btn:hover {
+    background-color: #4793FF;
+    color: #ffffff;
+    transition: all 0.4s ease-in-out;
+  }
+  
