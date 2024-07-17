@@ -14,7 +14,7 @@ const Navbar = () => {
         <header className="header">
             <nav className="nav container">
                 <form id="weatherForm">
-                    <input type="text" name="city" className="input" />
+                    <input type="text"  className="input" />
                     <button type="submit" className="btn">Search</button>
                 </form>
             </nav>
