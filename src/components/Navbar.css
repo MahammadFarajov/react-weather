@@ -13,15 +13,15 @@
     width: 100%;
     border: 1px solid #4793FF;
     color: #4793FF;
-    transition: all 0.4s ease-in-out;
+    transition: all 0.3s ease-in-out;
   }
   .header .nav form .input:hover, .header .nav form .input:focus {
-    transition: all 0.4s ease-in-out;
+    transition: all 0.3s ease-in-out;
     background-color: #4793FF;
     color: #ffffff;
   }
   .header .nav form .btn {
-    transition: all 0.4s ease-in-out;
+    transition: all 0.3s ease-in-out;
     border-radius: 0 10px 10px 0;
     padding: 15px 20px;
     border: 1px solid #4793FF;
@@ -31,6 +31,6 @@
   .header .nav form .btn:hover {
     background-color: #4793FF;
     color: #ffffff;
-    transition: all 0.4s ease-in-out;
+    transition: all 0.3s ease-in-out;
   }
   
